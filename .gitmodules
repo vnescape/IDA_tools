@@ -1,0 +1,12 @@
+[submodule "AMIE"]
+	path = AMIE
+	url = https://github.com/vnescape/AMIE
+[submodule "sephelper"]
+	path = sephelper
+	url = https://github.com/haiyuidesu/sephelper
+[submodule "efiXplorer"]
+	path = efiXplorer
+	url = https://github.com/binarly-io/efiXplorer
+[submodule "sep-fw-dyld-cache-loader"]
+	path = sep-fw-dyld-cache-loader
+	url = https://github.com/vnescape/sep-fw-dyld-cache-loader
