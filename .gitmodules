@@ -10,3 +10,6 @@
 [submodule "sep-fw-dyld-cache-loader"]
 	path = sep-fw-dyld-cache-loader
 	url = https://github.com/vnescape/sep-fw-dyld-cache-loader
+[submodule "NtRays"]
+	path = NtRays
+	url = https://github.com/can1357/NtRays
